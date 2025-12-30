@@ -1,2 +1,2 @@
 # flybird-desktop-game
-一个桌面小游戏
+一个通过QT编写的桌面小游戏
