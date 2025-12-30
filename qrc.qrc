@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/background-day.png</file>
+        <file>assets/images/gameover.png</file>
+        <file>assets/images/pipe-green.png</file>
+        <file>assets/images/3.png</file>
+        <file>assets/images/b3.png</file>
+        <file>assets/images/b1.png</file>
+        <file>assets/images/b2.png</file>
+        <file>assets/images/escloop.png</file>
+        <file>assets/images/question.png</file>
+    </qresource>
+</RCC>
