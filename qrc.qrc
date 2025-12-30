@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/background-day.png</file>
+        <file>assets/images/bluebird-downflap.png</file>
+        <file>assets/images/bluebird-midflap.png</file>
+        <file>assets/images/bluebird-upflap.png</file>
+        <file>assets/images/gameover.png</file>
+        <file>assets/images/pipe-green.png</file>
+        <file>assets/images/escloop.png</file>
+    </qresource>
+</RCC>
